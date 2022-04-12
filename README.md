@@ -78,7 +78,21 @@ See also:
 
 * https://plotly.com/python/reference/layout/
 * https://plotly.com/python/reference/choropleth/
+* https://plotly.com/python/map-configuration/
+* https://plotly.com/python/maps/
+* https://plotly.com/python/choropleth-maps/
 
 Changing the color scale:
 
 * https://plotly.com/python/builtin-colorscales/
+
+Customizing hover label appearance:
+
+* https://plotly.com/python/hover-text-and-formatting/
+
+(includes Setting the Hover Template in Mapbox Maps)
+
+General refs, indices:
+
+* https://plotly.com/python-api-reference/
+* https://plotly.com/python/
